@@ -10,6 +10,7 @@ public class GenerateInGame : MonoBehaviour {
     [Range(1f,45f)]
     public float percentDropTrash;
     public float arroundStick=3;
+	public string Tushka="Fucking Cool FOX GUY";
 
     Program program;
 	// Use this for initialization
